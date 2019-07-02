@@ -1,3 +1,5 @@
+//Found at https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5
+
 import { Directive, ElementRef } from '@angular/core';
 import { fromEvent } from 'rxjs';
 import { shareReplay } from 'rxjs/operators';
